@@ -1,0 +1,68 @@
+.navbar{
+    height: 76px;
+    width: 100%;
+    background-color:black;
+    color: white;
+   
+}
+.navbar .nav1 {
+    display: flex;
+    justify-content: space-between;
+}
+*{
+    background-color: black;
+    color: white;
+}
+.buyBotton{
+    width: 100%;
+    height: 50px;
+    color: white;
+    background-color: black;
+    border: 1px solid white;
+    border-radius: 5px;
+}
+.ex-r{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    margin-bottom: 10px;
+    margin-top: 20px;
+}
+.for-output{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+}
+.forInput{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+}
+.buy-button{
+    background-color:black;
+    border:1px solid white;
+}
+.sell-button{
+    background-color:black;
+    border:1px solid white;
+}
+.sell-form{
+    display:flex;
+    justify-content:space-between;
+    margin-top:10px;
+    margin-bottom:10px;
+}
+.sell-ex{
+
+}
+.sell-eth{
+
+}
+.sell-button1{
+    width: 100%;
+    height: 50px;
+    color: white;
+    background-color: black;
+    border: 1px solid white;
+    border-radius: 5px;
+}
